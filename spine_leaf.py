@@ -54,8 +54,8 @@ try:
     elr1n.set_address("192.169.1.1/24")
     en1.set_address("192.169.1.2/24")
 
-    elr2n.set_address("192.169.2.1/24")
-    en2.set_address("192.169.2.2/24")
+    elr2n.set_address("192.169.1.1/24")
+    en2.set_address("192.169.1.2/24")
 
     #set the link attributes
     elr1a.set_attributes("5mbit","5ms")

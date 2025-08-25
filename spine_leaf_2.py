@@ -1,4 +1,3 @@
-import time
 from nest.topology import *
 from nest.topology.network import Network
 from nest.topology.address_helper import AddressHelper
